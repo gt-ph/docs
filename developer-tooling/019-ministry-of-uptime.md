@@ -52,7 +52,7 @@ External Risk
 ## Stakeholder Buy-in
 Which agencies or departments did you reach out to and did they express interest or commitment?
 The team pivoted from incident monitoring and management to building a versatile agent platform that addresses needs across SDLC stages, not just the original problem space.
-While we secured CEP interest in the initial solution, we haven't found a business owner for the  agent platform solution.
+While we secured CEP interest in the initial solution, we haven't found a business owner for the agent platform solution.
 # Solutioning
 ## Problem-Solution Fit
 How does your product specifically address the pain points identified?

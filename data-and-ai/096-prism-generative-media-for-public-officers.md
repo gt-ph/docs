@@ -18,7 +18,7 @@ icon: "users"
 | Project page | [https://build.tech.gov.sg/projects/2026/96](https://build.tech.gov.sg/projects/2026/96) |
 | Product link | [https://labs.aip.gov.sg/prism](https://labs.aip.gov.sg/prism) |
 | Team members | Alicia Lam; Rachel Mf Tan; Sone Kyaw Pye; Sumiko Teng |
-| Match status | ambiguous-picked - Multiple exact matches: 96:Prism - Generative Media for Public Officers/Prism | 127:csg pentest innovators/prism |
+| Match status | ambiguous-picked - Multiple exact matches: 96:Prism - Generative Media for Public Officers/Prism \| 127:csg pentest innovators/prism |
 
 ## Summary
 

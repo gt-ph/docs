@@ -50,7 +50,7 @@ Large-scale events like organisational restructuring currently require external 
 Without a scalable automation platform, AGD / PSD remain a bottleneck for implementing and supporting agency level automation, increasing their operational burden and limiting their ability to focus on higher value, cross government initiatives.
 
 •	Operational fragility due to platform and environment constraints:
-Macro  and script based tools are sensitive to operating system and platform limitations (e.g. unsupported macro functions across environments). Recent incidents have shown that such failures can surface at critical periods, triggering last minute fixes, uncertainty among operational teams, and pressure on central teams to expedite releases — despite minimal end user tolerance for disruption during close cycles.
+Macro and script based tools are sensitive to operating system and platform limitations (e.g. unsupported macro functions across environments). Recent incidents have shown that such failures can surface at critical periods, triggering last minute fixes, uncertainty among operational teams, and pressure on central teams to expedite releases — despite minimal end user tolerance for disruption during close cycles.
 
 •	Operational and audit risk at financial close: 
 Manual accrual entries and reclass processing during high-pressure close periods introduce material error risk into financial statements, with downstream consequences for audit integrity and reporting accuracy.
