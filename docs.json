@@ -1,126 +1,136 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "{build} Final Judging Projects 2026",
+  "description": "Full extracted project details for GovTech {build} Hackathon 2026 final judging teams.",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#2F60CE"
   },
-  "favicon": "/favicon.svg",
+  "icons": {
+    "library": "lucide"
+  },
   "navigation": {
-    "tabs": [
+    "pages": [
+      "index"
+    ],
+    "groups": [
       {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/components",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "Agent ready",
-            "pages": [
-              "agent-ready/prompt",
-              "agent-ready/visibility",
-              "agent-ready/contextual",
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
+        "group": "Communications and Engagement",
+        "root": "communications-and-engagement/index",
+        "pages": [
+          "communications-and-engagement/166-making-talking-points-great-again",
+          "communications-and-engagement/105-sportsgenie",
+          "communications-and-engagement/002-team-helix",
+          "communications-and-engagement/097-unmute"
         ]
       },
       {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
+        "group": "Cybersecurity",
+        "root": "cybersecurity/index",
+        "pages": [
+          "cybersecurity/069-ramp",
+          "cybersecurity/181-sbom-bastic",
+          "cybersecurity/139-the-bridgers",
+          "cybersecurity/071-watchtower"
+        ]
+      },
+      {
+        "group": "Data & AI",
+        "root": "data-and-ai/index",
+        "pages": [
+          "data-and-ai/085-everease",
+          "data-and-ai/082-operation-tiergehege",
+          "data-and-ai/096-prism-generative-media-for-public-officers",
+          "data-and-ai/311-the-ctrls",
+          "data-and-ai/211-the-seedlings"
+        ]
+      },
+      {
+        "group": "Developer Tooling",
+        "root": "developer-tooling/index",
+        "pages": [
+          "developer-tooling/019-ministry-of-uptime"
+        ]
+      },
+      {
+        "group": "Economy & Finance",
+        "root": "economy-and-finance/index",
+        "pages": [
+          "economy-and-finance/135-fin-automation",
+          "economy-and-finance/001-receiptsg",
+          "economy-and-finance/030-reclaim"
+        ]
+      },
+      {
+        "group": "Education",
+        "root": "education/index",
+        "pages": [
+          "education/271-afternoon-t",
+          "education/032-hands-down",
+          "education/138-lessonfeedback",
+          "education/122-smartcampus"
+        ]
+      },
+      {
+        "group": "HR",
+        "root": "hr/index",
+        "pages": [
+          "hr/229-cvision",
+          "hr/156-screentime",
+          "hr/020-the-missing-layer"
+        ]
+      },
+      {
+        "group": "Healthcare",
+        "root": "healthcare/index",
+        "pages": [
+          "healthcare/007-wiseeats"
+        ]
+      },
+      {
+        "group": "Legal",
+        "root": "legal/index",
+        "pages": [
+          "legal/051-case-closed",
+          "legal/171-deal-makers-shaping-better-deals-through-risk-and-negotiation-insight"
+        ]
+      },
+      {
+        "group": "Productivity",
+        "root": "productivity/index",
+        "pages": [
+          "productivity/299-discoshibafast",
+          "productivity/042-crunch",
+          "productivity/111-data-planters",
+          "productivity/049-govtech-story-bank",
+          "productivity/195-motion365",
+          "productivity/178-pq-sentinels",
+          "productivity/013-scope",
+          "productivity/207-vip"
+        ]
+      },
+      {
+        "group": "Social",
+        "root": "social/index",
+        "pages": [
+          "social/100-4mn",
+          "social/237-build-lai",
+          "social/294-lighties",
+          "social/068-queue-masters",
+          "social/057-the-passionate"
+        ]
+      },
+      {
+        "group": "Unresolved",
+        "pages": [
+          "unresolved"
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+  "seo": {
+    "indexing": "all"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
+  "metadata": {
+    "timestamp": true
   }
 }
